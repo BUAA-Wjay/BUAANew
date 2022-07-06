@@ -12,4 +12,6 @@ Markdown的官方教程地址：[markdown教程](https://markdown.com.cn/)
 
 由于部分信息具有时效性，要求在Markdown文档开头处注明最近更新时间。一些旧文件可能不是由Markdown文档写成，我们欢迎进行改写工作。如果源文件为PDF文件，可以不进行转写直接放入，如果源文件为其他格式，请转写。
 
+目前希望有的信息：各栋宿舍楼介绍，沙河校区新建部分介绍
+
 **本项目使用[CC4.0 BY-NC-ND](https://creativecommons.org/licenses/by-nc-nd/4.0/)与"Anti 996" License，二者冲突的服从后者，其中作者名保留到本项目的链接即可**
