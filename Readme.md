@@ -23,7 +23,7 @@
 
 [北航人吃喝玩乐指南](https://zzh-cycling.github.io/2022/07/29/BUAAer%E5%90%83%E5%96%9D%E7%8E%A9%E4%B9%90%E6%8C%87%E5%8D%97/) 作者：许二荷、zzh、xrc
 
-[北航校医院报销政策](https://mp.weixin.qq.com/mp/homepage?search_click_id=5291460620131035441-1659256133177-248193&__biz=MzAxMzkxOTk5Nw==&hid=1&sn=2e8785303d1bf5b27ca2fda5b260df2e&scene=18)
+[北航校医院报销政策](https://mp.weixin.qq.com/mp/homepage?search_click_id=5291460620131035441-1659256133177-248193&__biz=MzAxMzkxOTk5Nw==&hid=1&sn=2e8785303d1bf5b27ca2fda5b260df2e&scene=18) （不需要把医保/社保转过来，因为北航学生享受公费医疗，与医保/社保互不干涉，但是建议在当地继续交，因为寒暑假回家生病公费医疗不报销）
 
 ## 2022迎新群聊
 
